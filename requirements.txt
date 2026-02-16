@@ -1,0 +1,10 @@
+langchain
+ipykernel
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-openai
+langchain_huggingface
+langchain_chroma
+langchain_groq
+sentence_transformers
